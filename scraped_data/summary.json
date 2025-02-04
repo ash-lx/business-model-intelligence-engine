@@ -1,0 +1,1967 @@
+{
+  "total_urls": 280,
+  "successful_crawls": 280,
+  "crawl_time": "2025-01-28T11:05:32.990998",
+  "processed_urls": [
+    {
+      "url": "https://assemblean.com/blog-de/",
+      "filename": "blog-de",
+      "raw_path": "scraped_data/raw/blog-de.json",
+      "markdown_path": "scraped_data/markdown/blog-de.md",
+      "crawl_time": "2025-01-28T11:01:12.467893"
+    },
+    {
+      "url": "https://assemblean.com/the-start-up-guide-for-developing-a-physical-product/",
+      "filename": "the-start-up-guide-for-developing-a-physical-product",
+      "raw_path": "scraped_data/raw/the-start-up-guide-for-developing-a-physical-product.json",
+      "markdown_path": "scraped_data/markdown/the-start-up-guide-for-developing-a-physical-product.md",
+      "crawl_time": "2025-01-28T11:01:12.788099"
+    },
+    {
+      "url": "https://assemblean.com/der-start-up-guide-fuer-die-entwicklung-eines-physischen-produkts/",
+      "filename": "der-start-up-guide-fuer-die-entwicklung-eines-physischen-produkts",
+      "raw_path": "scraped_data/raw/der-start-up-guide-fuer-die-entwicklung-eines-physischen-produkts.json",
+      "markdown_path": "scraped_data/markdown/der-start-up-guide-fuer-die-entwicklung-eines-physischen-produkts.md",
+      "crawl_time": "2025-01-28T11:01:12.607195"
+    },
+    {
+      "url": "https://assemblean.com/what-are-the-most-important-die-casting-design-tips/",
+      "filename": "what-are-the-most-important-die-casting-design-tips",
+      "raw_path": "scraped_data/raw/what-are-the-most-important-die-casting-design-tips.json",
+      "markdown_path": "scraped_data/markdown/what-are-the-most-important-die-casting-design-tips.md",
+      "crawl_time": "2025-01-28T11:01:12.423092"
+    },
+    {
+      "url": "https://assemblean.com/7-3d-printing-design-tips-for-flawless-parts/",
+      "filename": "7-3d-printing-design-tips-for-flawless-parts",
+      "raw_path": "scraped_data/raw/7-3d-printing-design-tips-for-flawless-parts.json",
+      "markdown_path": "scraped_data/markdown/7-3d-printing-design-tips-for-flawless-parts.md",
+      "crawl_time": "2025-01-28T11:01:12.787613"
+    },
+    {
+      "url": "https://assemblean.com/7-3d-druck-design-tipps-fuer-einwandfreie-teile/",
+      "filename": "7-3d-druck-design-tipps-fuer-einwandfreie-teile",
+      "raw_path": "scraped_data/raw/7-3d-druck-design-tipps-fuer-einwandfreie-teile.json",
+      "markdown_path": "scraped_data/markdown/7-3d-druck-design-tipps-fuer-einwandfreie-teile.md",
+      "crawl_time": "2025-01-28T11:01:12.326144"
+    },
+    {
+      "url": "https://assemblean.com/9-cnc-design-tips-for-better-cnc-parts/",
+      "filename": "9-cnc-design-tips-for-better-cnc-parts",
+      "raw_path": "scraped_data/raw/9-cnc-design-tips-for-better-cnc-parts.json",
+      "markdown_path": "scraped_data/markdown/9-cnc-design-tips-for-better-cnc-parts.md",
+      "crawl_time": "2025-01-28T11:01:12.607470"
+    },
+    {
+      "url": "https://assemblean.com/9-cnc-design-tipps-fuer-optimale-dreh-und-fraesteile/",
+      "filename": "9-cnc-design-tipps-fuer-optimale-dreh-und-fraesteile",
+      "raw_path": "scraped_data/raw/9-cnc-design-tipps-fuer-optimale-dreh-und-fraesteile.json",
+      "markdown_path": "scraped_data/markdown/9-cnc-design-tipps-fuer-optimale-dreh-und-fraesteile.md",
+      "crawl_time": "2025-01-28T11:01:12.787916"
+    },
+    {
+      "url": "https://assemblean.com/vakuumguss-hochwertige-kunststoffteile-in-kleinserien/",
+      "filename": "vakuumguss-hochwertige-kunststoffteile-in-kleinserien",
+      "raw_path": "scraped_data/raw/vakuumguss-hochwertige-kunststoffteile-in-kleinserien.json",
+      "markdown_path": "scraped_data/markdown/vakuumguss-hochwertige-kunststoffteile-in-kleinserien.md",
+      "crawl_time": "2025-01-28T11:01:12.702611"
+    },
+    {
+      "url": "https://assemblean.com/was-sind-die-wichtigsten-druckguss-design-hinweise/",
+      "filename": "was-sind-die-wichtigsten-druckguss-design-hinweise",
+      "raw_path": "scraped_data/raw/was-sind-die-wichtigsten-druckguss-design-hinweise.json",
+      "markdown_path": "scraped_data/markdown/was-sind-die-wichtigsten-druckguss-design-hinweise.md",
+      "crawl_time": "2025-01-28T11:01:12.612223"
+    },
+    {
+      "url": "https://assemblean.com/make-or-buy-decision/",
+      "filename": "make-or-buy-decision",
+      "raw_path": "scraped_data/raw/make-or-buy-decision.json",
+      "markdown_path": "scraped_data/markdown/make-or-buy-decision.md",
+      "crawl_time": "2025-01-28T11:01:22.578328"
+    },
+    {
+      "url": "https://assemblean.com/make-or-buy-entscheidung/",
+      "filename": "make-or-buy-entscheidung",
+      "raw_path": "scraped_data/raw/make-or-buy-entscheidung.json",
+      "markdown_path": "scraped_data/markdown/make-or-buy-entscheidung.md",
+      "crawl_time": "2025-01-28T11:01:22.578577"
+    },
+    {
+      "url": "https://assemblean.com/what-are-the-most-important-injection-molding-design-tips/",
+      "filename": "what-are-the-most-important-injection-molding-design-tips",
+      "raw_path": "scraped_data/raw/what-are-the-most-important-injection-molding-design-tips.json",
+      "markdown_path": "scraped_data/markdown/what-are-the-most-important-injection-molding-design-tips.md",
+      "crawl_time": "2025-01-28T11:01:21.951570"
+    },
+    {
+      "url": "https://assemblean.com/was-sind-die-wichtigsten-spritzguss-design-hinweise/",
+      "filename": "was-sind-die-wichtigsten-spritzguss-design-hinweise",
+      "raw_path": "scraped_data/raw/was-sind-die-wichtigsten-spritzguss-design-hinweise.json",
+      "markdown_path": "scraped_data/markdown/was-sind-die-wichtigsten-spritzguss-design-hinweise.md",
+      "crawl_time": "2025-01-28T11:01:22.464611"
+    },
+    {
+      "url": "https://assemblean.com/5-useful-supply-chain-trends-to-look-out-for-in-2023/",
+      "filename": "5-useful-supply-chain-trends-to-look-out-for-in-2023",
+      "raw_path": "scraped_data/raw/5-useful-supply-chain-trends-to-look-out-for-in-2023.json",
+      "markdown_path": "scraped_data/markdown/5-useful-supply-chain-trends-to-look-out-for-in-2023.md",
+      "crawl_time": "2025-01-28T11:01:21.956548"
+    },
+    {
+      "url": "https://assemblean.com/injection-molding-vs-die-casting-what-is-the-difference/",
+      "filename": "injection-molding-vs-die-casting-what-is-the-difference",
+      "raw_path": "scraped_data/raw/injection-molding-vs-die-casting-what-is-the-difference.json",
+      "markdown_path": "scraped_data/markdown/injection-molding-vs-die-casting-what-is-the-difference.md",
+      "crawl_time": "2025-01-28T11:01:22.579053"
+    },
+    {
+      "url": "https://assemblean.com/how-can-assembly-process-planning-improve-production/",
+      "filename": "how-can-assembly-process-planning-improve-production",
+      "raw_path": "scraped_data/raw/how-can-assembly-process-planning-improve-production.json",
+      "markdown_path": "scraped_data/markdown/how-can-assembly-process-planning-improve-production.md",
+      "crawl_time": "2025-01-28T11:01:22.573736"
+    },
+    {
+      "url": "https://assemblean.com/wie-kann-montageprozessplanung-die-produktion-verbessern/",
+      "filename": "wie-kann-montageprozessplanung-die-produktion-verbessern",
+      "raw_path": "scraped_data/raw/wie-kann-montageprozessplanung-die-produktion-verbessern.json",
+      "markdown_path": "scraped_data/markdown/wie-kann-montageprozessplanung-die-produktion-verbessern.md",
+      "crawl_time": "2025-01-28T11:01:21.950265"
+    },
+    {
+      "url": "https://assemblean.com/spritzguss-vs-druckguss-was-sind-die-unterschiede/",
+      "filename": "spritzguss-vs-druckguss-was-sind-die-unterschiede",
+      "raw_path": "scraped_data/raw/spritzguss-vs-druckguss-was-sind-die-unterschiede.json",
+      "markdown_path": "scraped_data/markdown/spritzguss-vs-druckguss-was-sind-die-unterschiede.md",
+      "crawl_time": "2025-01-28T11:01:22.580484"
+    },
+    {
+      "url": "https://assemblean.com/3-nuetzliche-supply-chain-trends-die-du-2023-beachten-solltest/",
+      "filename": "3-nuetzliche-supply-chain-trends-die-du-2023-beachten-solltest",
+      "raw_path": "scraped_data/raw/3-nuetzliche-supply-chain-trends-die-du-2023-beachten-solltest.json",
+      "markdown_path": "scraped_data/markdown/3-nuetzliche-supply-chain-trends-die-du-2023-beachten-solltest.md",
+      "crawl_time": "2025-01-28T11:01:21.968263"
+    },
+    {
+      "url": "https://assemblean.com/",
+      "filename": "assemblean.com",
+      "raw_path": "scraped_data/raw/assemblean.com.json",
+      "markdown_path": "scraped_data/markdown/assemblean.com.md",
+      "crawl_time": "2025-01-28T11:01:32.313146"
+    },
+    {
+      "url": "https://assemblean.com/paas/",
+      "filename": "paas",
+      "raw_path": "scraped_data/raw/paas.json",
+      "markdown_path": "scraped_data/markdown/paas.md",
+      "crawl_time": "2025-01-28T11:01:33.168157"
+    },
+    {
+      "url": "https://assemblean.com/blog-en/",
+      "filename": "blog-en",
+      "raw_path": "scraped_data/raw/blog-en.json",
+      "markdown_path": "scraped_data/markdown/blog-en.md",
+      "crawl_time": "2025-01-28T11:01:33.168964"
+    },
+    {
+      "url": "https://assemblean.com/faq/",
+      "filename": "faq",
+      "raw_path": "scraped_data/raw/faq.json",
+      "markdown_path": "scraped_data/markdown/faq.md",
+      "crawl_time": "2025-01-28T11:01:33.167917"
+    },
+    {
+      "url": "https://assemblean.com/faq-2/",
+      "filename": "faq-2",
+      "raw_path": "scraped_data/raw/faq-2.json",
+      "markdown_path": "scraped_data/markdown/faq-2.md",
+      "crawl_time": "2025-01-28T11:01:33.168538"
+    },
+    {
+      "url": "https://assemblean.com/contact/",
+      "filename": "contact",
+      "raw_path": "scraped_data/raw/contact.json",
+      "markdown_path": "scraped_data/markdown/contact.md",
+      "crawl_time": "2025-01-28T11:01:33.168614"
+    },
+    {
+      "url": "https://assemblean.com/kontakt/",
+      "filename": "kontakt",
+      "raw_path": "scraped_data/raw/kontakt.json",
+      "markdown_path": "scraped_data/markdown/kontakt.md",
+      "crawl_time": "2025-01-28T11:01:33.026304"
+    },
+    {
+      "url": "https://assemblean.com/druckguss-in-vier-schritten/",
+      "filename": "druckguss-in-vier-schritten",
+      "raw_path": "scraped_data/raw/druckguss-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/druckguss-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:01:33.167626"
+    },
+    {
+      "url": "https://assemblean.com/3d-druck-in-vier-schritten/",
+      "filename": "3d-druck-in-vier-schritten",
+      "raw_path": "scraped_data/raw/3d-druck-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/3d-druck-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:01:33.123376"
+    },
+    {
+      "url": "https://assemblean.com/blechbearbeitung-in-vier-schritten/",
+      "filename": "blechbearbeitung-in-vier-schritten",
+      "raw_path": "scraped_data/raw/blechbearbeitung-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/blechbearbeitung-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:01:33.168753"
+    },
+    {
+      "url": "https://assemblean.com/elektronikgehaeuse/",
+      "filename": "elektronikgehaeuse",
+      "raw_path": "scraped_data/raw/elektronikgehaeuse.json",
+      "markdown_path": "scraped_data/markdown/elektronikgehaeuse.md",
+      "crawl_time": "2025-01-28T11:01:42.768106"
+    },
+    {
+      "url": "https://assemblean.com/elektronische-bauteile/",
+      "filename": "elektronische-bauteile",
+      "raw_path": "scraped_data/raw/elektronische-bauteile.json",
+      "markdown_path": "scraped_data/markdown/elektronische-bauteile.md",
+      "crawl_time": "2025-01-28T11:01:42.540816"
+    },
+    {
+      "url": "https://assemblean.com/produktions-services-home/",
+      "filename": "produktions-services-home",
+      "raw_path": "scraped_data/raw/produktions-services-home.json",
+      "markdown_path": "scraped_data/markdown/produktions-services-home.md",
+      "crawl_time": "2025-01-28T11:01:42.521638"
+    },
+    {
+      "url": "https://assemblean.com/leiterplatten/",
+      "filename": "leiterplatten",
+      "raw_path": "scraped_data/raw/leiterplatten.json",
+      "markdown_path": "scraped_data/markdown/leiterplatten.md",
+      "crawl_time": "2025-01-28T11:01:42.768223"
+    },
+    {
+      "url": "https://assemblean.com/montage-in-vier-schritten/",
+      "filename": "montage-in-vier-schritten",
+      "raw_path": "scraped_data/raw/montage-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/montage-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:01:42.255038"
+    },
+    {
+      "url": "https://assemblean.com/vakuumguss-in-vier-schritten/",
+      "filename": "vakuumguss-in-vier-schritten",
+      "raw_path": "scraped_data/raw/vakuumguss-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/vakuumguss-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:01:42.225811"
+    },
+    {
+      "url": "https://assemblean.com/vakuumguss-statt-3d-druck/",
+      "filename": "vakuumguss-statt-3d-druck",
+      "raw_path": "scraped_data/raw/vakuumguss-statt-3d-druck.json",
+      "markdown_path": "scraped_data/markdown/vakuumguss-statt-3d-druck.md",
+      "crawl_time": "2025-01-28T11:01:42.117564"
+    },
+    {
+      "url": "https://assemblean.com/vakuumguss/",
+      "filename": "vakuumguss",
+      "raw_path": "scraped_data/raw/vakuumguss.json",
+      "markdown_path": "scraped_data/markdown/vakuumguss.md",
+      "crawl_time": "2025-01-28T11:01:42.161404"
+    },
+    {
+      "url": "https://assemblean.com/baugruppenfertigung/",
+      "filename": "baugruppenfertigung",
+      "raw_path": "scraped_data/raw/baugruppenfertigung.json",
+      "markdown_path": "scraped_data/markdown/baugruppenfertigung.md",
+      "crawl_time": "2025-01-28T11:01:42.768014"
+    },
+    {
+      "url": "https://assemblean.com/assembly-manufacturing/",
+      "filename": "assembly-manufacturing",
+      "raw_path": "scraped_data/raw/assembly-manufacturing.json",
+      "markdown_path": "scraped_data/markdown/assembly-manufacturing.md",
+      "crawl_time": "2025-01-28T11:01:42.768411"
+    },
+    {
+      "url": "https://assemblean.com/spritzguss-in-vier-schritten/",
+      "filename": "spritzguss-in-vier-schritten",
+      "raw_path": "scraped_data/raw/spritzguss-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/spritzguss-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:01:51.990592"
+    },
+    {
+      "url": "https://assemblean.com/startup/",
+      "filename": "startup",
+      "raw_path": "scraped_data/raw/startup.json",
+      "markdown_path": "scraped_data/markdown/startup.md",
+      "crawl_time": "2025-01-28T11:01:51.995474"
+    },
+    {
+      "url": "https://assemblean.com/spritzguss/",
+      "filename": "spritzguss",
+      "raw_path": "scraped_data/raw/spritzguss.json",
+      "markdown_path": "scraped_data/markdown/spritzguss.md",
+      "crawl_time": "2025-01-28T11:01:53.884598"
+    },
+    {
+      "url": "https://assemblean.com/magnesium/",
+      "filename": "magnesium",
+      "raw_path": "scraped_data/raw/magnesium.json",
+      "markdown_path": "scraped_data/markdown/magnesium.md",
+      "crawl_time": "2025-01-28T11:01:50.926258"
+    },
+    {
+      "url": "https://assemblean.com/magnesium-en/",
+      "filename": "magnesium-en",
+      "raw_path": "scraped_data/raw/magnesium-en.json",
+      "markdown_path": "scraped_data/markdown/magnesium-en.md",
+      "crawl_time": "2025-01-28T11:01:51.993859"
+    },
+    {
+      "url": "https://assemblean.com/service-post-processings/",
+      "filename": "service-post-processings",
+      "raw_path": "scraped_data/raw/service-post-processings.json",
+      "markdown_path": "scraped_data/markdown/service-post-processings.md",
+      "crawl_time": "2025-01-28T11:01:53.441196"
+    },
+    {
+      "url": "https://assemblean.com/aluminium-en/",
+      "filename": "aluminium-en",
+      "raw_path": "scraped_data/raw/aluminium-en.json",
+      "markdown_path": "scraped_data/markdown/aluminium-en.md",
+      "crawl_time": "2025-01-28T11:01:53.091555"
+    },
+    {
+      "url": "https://assemblean.com/stainless-steel/",
+      "filename": "stainless-steel",
+      "raw_path": "scraped_data/raw/stainless-steel.json",
+      "markdown_path": "scraped_data/markdown/stainless-steel.md",
+      "crawl_time": "2025-01-28T11:01:51.792891"
+    },
+    {
+      "url": "https://assemblean.com/kupfer/",
+      "filename": "kupfer",
+      "raw_path": "scraped_data/raw/kupfer.json",
+      "markdown_path": "scraped_data/markdown/kupfer.md",
+      "crawl_time": "2025-01-28T11:01:51.555859"
+    },
+    {
+      "url": "https://assemblean.com/copper/",
+      "filename": "copper",
+      "raw_path": "scraped_data/raw/copper.json",
+      "markdown_path": "scraped_data/markdown/copper.md",
+      "crawl_time": "2025-01-28T11:01:51.792449"
+    },
+    {
+      "url": "https://assemblean.com/steel/",
+      "filename": "steel",
+      "raw_path": "scraped_data/raw/steel.json",
+      "markdown_path": "scraped_data/markdown/steel.md",
+      "crawl_time": "2025-01-28T11:02:02.441781"
+    },
+    {
+      "url": "https://assemblean.com/titanium/",
+      "filename": "titanium",
+      "raw_path": "scraped_data/raw/titanium.json",
+      "markdown_path": "scraped_data/markdown/titanium.md",
+      "crawl_time": "2025-01-28T11:02:01.595064"
+    },
+    {
+      "url": "https://assemblean.com/zink/",
+      "filename": "zink",
+      "raw_path": "scraped_data/raw/zink.json",
+      "markdown_path": "scraped_data/markdown/zink.md",
+      "crawl_time": "2025-01-28T11:02:02.442411"
+    },
+    {
+      "url": "https://assemblean.com/zinc/",
+      "filename": "zinc",
+      "raw_path": "scraped_data/raw/zinc.json",
+      "markdown_path": "scraped_data/markdown/zinc.md",
+      "crawl_time": "2025-01-28T11:02:02.007546"
+    },
+    {
+      "url": "https://assemblean.com/en/",
+      "filename": "en",
+      "raw_path": "scraped_data/raw/en.json",
+      "markdown_path": "scraped_data/markdown/en.md",
+      "crawl_time": "2025-01-28T11:02:02.439676"
+    },
+    {
+      "url": "https://assemblean.com/edelstahl/",
+      "filename": "edelstahl",
+      "raw_path": "scraped_data/raw/edelstahl.json",
+      "markdown_path": "scraped_data/markdown/edelstahl.md",
+      "crawl_time": "2025-01-28T11:02:02.490691"
+    },
+    {
+      "url": "https://assemblean.com/titan/",
+      "filename": "titan",
+      "raw_path": "scraped_data/raw/titan.json",
+      "markdown_path": "scraped_data/markdown/titan.md",
+      "crawl_time": "2025-01-28T11:02:02.960351"
+    },
+    {
+      "url": "https://assemblean.com/cnc-fertigung-in-vier-schritten/",
+      "filename": "cnc-fertigung-in-vier-schritten",
+      "raw_path": "scraped_data/raw/cnc-fertigung-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/cnc-fertigung-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:02:03.043615"
+    },
+    {
+      "url": "https://assemblean.com/2-0321/",
+      "filename": "2-0321",
+      "raw_path": "scraped_data/raw/2-0321.json",
+      "markdown_path": "scraped_data/markdown/2-0321.md",
+      "crawl_time": "2025-01-28T11:02:02.009150"
+    },
+    {
+      "url": "https://assemblean.com/2-0401/",
+      "filename": "2-0401",
+      "raw_path": "scraped_data/raw/2-0401.json",
+      "markdown_path": "scraped_data/markdown/2-0401.md",
+      "crawl_time": "2025-01-28T11:02:02.226686"
+    },
+    {
+      "url": "https://assemblean.com/2-0402/",
+      "filename": "2-0402",
+      "raw_path": "scraped_data/raw/2-0402.json",
+      "markdown_path": "scraped_data/markdown/2-0402.md",
+      "crawl_time": "2025-01-28T11:02:09.652269"
+    },
+    {
+      "url": "https://assemblean.com/2-1030/",
+      "filename": "2-1030",
+      "raw_path": "scraped_data/raw/2-1030.json",
+      "markdown_path": "scraped_data/markdown/2-1030.md",
+      "crawl_time": "2025-01-28T11:02:09.295203"
+    },
+    {
+      "url": "https://assemblean.com/2-1052/",
+      "filename": "2-1052",
+      "raw_path": "scraped_data/raw/2-1052.json",
+      "markdown_path": "scraped_data/markdown/2-1052.md",
+      "crawl_time": "2025-01-28T11:02:09.700702"
+    },
+    {
+      "url": "https://assemblean.com/2-1247/",
+      "filename": "2-1247",
+      "raw_path": "scraped_data/raw/2-1247.json",
+      "markdown_path": "scraped_data/markdown/2-1247.md",
+      "crawl_time": "2025-01-28T11:02:09.653372"
+    },
+    {
+      "url": "https://assemblean.com/2-1293/",
+      "filename": "2-1293",
+      "raw_path": "scraped_data/raw/2-1293.json",
+      "markdown_path": "scraped_data/markdown/2-1293.md",
+      "crawl_time": "2025-01-28T11:02:09.701407"
+    },
+    {
+      "url": "https://assemblean.com/cu-dhp/",
+      "filename": "cu-dhp",
+      "raw_path": "scraped_data/raw/cu-dhp.json",
+      "markdown_path": "scraped_data/markdown/cu-dhp.md",
+      "crawl_time": "2025-01-28T11:02:09.700563"
+    },
+    {
+      "url": "https://assemblean.com/cu-etp/",
+      "filename": "cu-etp",
+      "raw_path": "scraped_data/raw/cu-etp.json",
+      "markdown_path": "scraped_data/markdown/cu-etp.md",
+      "crawl_time": "2025-01-28T11:02:09.700612"
+    },
+    {
+      "url": "https://assemblean.com/materialien-uebersicht/",
+      "filename": "materialien-uebersicht",
+      "raw_path": "scraped_data/raw/materialien-uebersicht.json",
+      "markdown_path": "scraped_data/markdown/materialien-uebersicht.md",
+      "crawl_time": "2025-01-28T11:02:09.655535"
+    },
+    {
+      "url": "https://assemblean.com/materials-overview/",
+      "filename": "materials-overview",
+      "raw_path": "scraped_data/raw/materials-overview.json",
+      "markdown_path": "scraped_data/markdown/materials-overview.md",
+      "crawl_time": "2025-01-28T11:02:09.114779"
+    },
+    {
+      "url": "https://assemblean.com/aisi-304/",
+      "filename": "aisi-304",
+      "raw_path": "scraped_data/raw/aisi-304.json",
+      "markdown_path": "scraped_data/markdown/aisi-304.md",
+      "crawl_time": "2025-01-28T11:02:09.028809"
+    },
+    {
+      "url": "https://assemblean.com/aisi-316-ti/",
+      "filename": "aisi-316-ti",
+      "raw_path": "scraped_data/raw/aisi-316-ti.json",
+      "markdown_path": "scraped_data/markdown/aisi-316-ti.md",
+      "crawl_time": "2025-01-28T11:02:16.561967"
+    },
+    {
+      "url": "https://assemblean.com/aisi-316l/",
+      "filename": "aisi-316l",
+      "raw_path": "scraped_data/raw/aisi-316l.json",
+      "markdown_path": "scraped_data/markdown/aisi-316l.md",
+      "crawl_time": "2025-01-28T11:02:16.561238"
+    },
+    {
+      "url": "https://assemblean.com/aisi-316/",
+      "filename": "aisi-316",
+      "raw_path": "scraped_data/raw/aisi-316.json",
+      "markdown_path": "scraped_data/markdown/aisi-316.md",
+      "crawl_time": "2025-01-28T11:02:17.365347"
+    },
+    {
+      "url": "https://assemblean.com/aisi-303/",
+      "filename": "aisi-303",
+      "raw_path": "scraped_data/raw/aisi-303.json",
+      "markdown_path": "scraped_data/markdown/aisi-303.md",
+      "crawl_time": "2025-01-28T11:02:16.389683"
+    },
+    {
+      "url": "https://assemblean.com/aisi-630/",
+      "filename": "aisi-630",
+      "raw_path": "scraped_data/raw/aisi-630.json",
+      "markdown_path": "scraped_data/markdown/aisi-630.md",
+      "crawl_time": "2025-01-28T11:02:17.703678"
+    },
+    {
+      "url": "https://assemblean.com/aisi-430/",
+      "filename": "aisi-430",
+      "raw_path": "scraped_data/raw/aisi-430.json",
+      "markdown_path": "scraped_data/markdown/aisi-430.md",
+      "crawl_time": "2025-01-28T11:02:16.562033"
+    },
+    {
+      "url": "https://assemblean.com/aisi-420/",
+      "filename": "aisi-420",
+      "raw_path": "scraped_data/raw/aisi-420.json",
+      "markdown_path": "scraped_data/markdown/aisi-420.md",
+      "crawl_time": "2025-01-28T11:02:17.308618"
+    },
+    {
+      "url": "https://assemblean.com/aisi-431/",
+      "filename": "aisi-431",
+      "raw_path": "scraped_data/raw/aisi-431.json",
+      "markdown_path": "scraped_data/markdown/aisi-431.md",
+      "crawl_time": "2025-01-28T11:02:16.299522"
+    },
+    {
+      "url": "https://assemblean.com/aisi-304l/",
+      "filename": "aisi-304l",
+      "raw_path": "scraped_data/raw/aisi-304l.json",
+      "markdown_path": "scraped_data/markdown/aisi-304l.md",
+      "crawl_time": "2025-01-28T11:02:16.561695"
+    },
+    {
+      "url": "https://assemblean.com/titan-grade-2/",
+      "filename": "titan-grade-2",
+      "raw_path": "scraped_data/raw/titan-grade-2.json",
+      "markdown_path": "scraped_data/markdown/titan-grade-2.md",
+      "crawl_time": "2025-01-28T11:02:14.975709"
+    },
+    {
+      "url": "https://assemblean.com/titan-grade-5/",
+      "filename": "titan-grade-5",
+      "raw_path": "scraped_data/raw/titan-grade-5.json",
+      "markdown_path": "scraped_data/markdown/titan-grade-5.md",
+      "crawl_time": "2025-01-28T11:02:24.138870"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-2007/",
+      "filename": "en-aw-2007",
+      "raw_path": "scraped_data/raw/en-aw-2007.json",
+      "markdown_path": "scraped_data/markdown/en-aw-2007.md",
+      "crawl_time": "2025-01-28T11:02:24.315613"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-2017a/",
+      "filename": "en-aw-2017a",
+      "raw_path": "scraped_data/raw/en-aw-2017a.json",
+      "markdown_path": "scraped_data/markdown/en-aw-2017a.md",
+      "crawl_time": "2025-01-28T11:02:24.837889"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-5005/",
+      "filename": "en-aw-5005",
+      "raw_path": "scraped_data/raw/en-aw-5005.json",
+      "markdown_path": "scraped_data/markdown/en-aw-5005.md",
+      "crawl_time": "2025-01-28T11:02:24.479962"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-5083/",
+      "filename": "en-aw-5083",
+      "raw_path": "scraped_data/raw/en-aw-5083.json",
+      "markdown_path": "scraped_data/markdown/en-aw-5083.md",
+      "crawl_time": "2025-01-28T11:02:24.656273"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-5754/",
+      "filename": "en-aw-5754",
+      "raw_path": "scraped_data/raw/en-aw-5754.json",
+      "markdown_path": "scraped_data/markdown/en-aw-5754.md",
+      "crawl_time": "2025-01-28T11:02:23.678353"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-6060/",
+      "filename": "en-aw-6060",
+      "raw_path": "scraped_data/raw/en-aw-6060.json",
+      "markdown_path": "scraped_data/markdown/en-aw-6060.md",
+      "crawl_time": "2025-01-28T11:02:24.315825"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-6061/",
+      "filename": "en-aw-6061",
+      "raw_path": "scraped_data/raw/en-aw-6061.json",
+      "markdown_path": "scraped_data/markdown/en-aw-6061.md",
+      "crawl_time": "2025-01-28T11:02:24.780125"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-6063/",
+      "filename": "en-aw-6063",
+      "raw_path": "scraped_data/raw/en-aw-6063.json",
+      "markdown_path": "scraped_data/markdown/en-aw-6063.md",
+      "crawl_time": "2025-01-28T11:02:23.577697"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-6082/",
+      "filename": "en-aw-6082",
+      "raw_path": "scraped_data/raw/en-aw-6082.json",
+      "markdown_path": "scraped_data/markdown/en-aw-6082.md",
+      "crawl_time": "2025-01-28T11:02:24.722913"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-7020/",
+      "filename": "en-aw-7020",
+      "raw_path": "scraped_data/raw/en-aw-7020.json",
+      "markdown_path": "scraped_data/markdown/en-aw-7020.md",
+      "crawl_time": "2025-01-28T11:02:33.082456"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-7075/",
+      "filename": "en-aw-7075",
+      "raw_path": "scraped_data/raw/en-aw-7075.json",
+      "markdown_path": "scraped_data/markdown/en-aw-7075.md",
+      "crawl_time": "2025-01-28T11:02:32.200326"
+    },
+    {
+      "url": "https://assemblean.com/lexikon/",
+      "filename": "lexikon",
+      "raw_path": "scraped_data/raw/lexikon.json",
+      "markdown_path": "scraped_data/markdown/lexikon.md",
+      "crawl_time": "2025-01-28T11:02:33.168780"
+    },
+    {
+      "url": "https://assemblean.com/aluminium/",
+      "filename": "aluminium",
+      "raw_path": "scraped_data/raw/aluminium.json",
+      "markdown_path": "scraped_data/markdown/aluminium.md",
+      "crawl_time": "2025-01-28T11:02:33.082703"
+    },
+    {
+      "url": "https://assemblean.com/c45/",
+      "filename": "c45",
+      "raw_path": "scraped_data/raw/c45.json",
+      "markdown_path": "scraped_data/markdown/c45.md",
+      "crawl_time": "2025-01-28T11:02:33.020909"
+    },
+    {
+      "url": "https://assemblean.com/s235jr/",
+      "filename": "s235jr",
+      "raw_path": "scraped_data/raw/s235jr.json",
+      "markdown_path": "scraped_data/markdown/s235jr.md",
+      "crawl_time": "2025-01-28T11:02:33.082498"
+    },
+    {
+      "url": "https://assemblean.com/s355j2g3/",
+      "filename": "s355j2g3",
+      "raw_path": "scraped_data/raw/s355j2g3.json",
+      "markdown_path": "scraped_data/markdown/s355j2g3.md",
+      "crawl_time": "2025-01-28T11:02:32.154891"
+    },
+    {
+      "url": "https://assemblean.com/90mncrv8/",
+      "filename": "90mncrv8",
+      "raw_path": "scraped_data/raw/90mncrv8.json",
+      "markdown_path": "scraped_data/markdown/90mncrv8.md",
+      "crawl_time": "2025-01-28T11:02:33.082279"
+    },
+    {
+      "url": "https://assemblean.com/16mncr5/",
+      "filename": "16mncr5",
+      "raw_path": "scraped_data/raw/16mncr5.json",
+      "markdown_path": "scraped_data/markdown/16mncr5.md",
+      "crawl_time": "2025-01-28T11:02:33.168630"
+    },
+    {
+      "url": "https://assemblean.com/25crmo4/",
+      "filename": "25crmo4",
+      "raw_path": "scraped_data/raw/25crmo4.json",
+      "markdown_path": "scraped_data/markdown/25crmo4.md",
+      "crawl_time": "2025-01-28T11:02:33.015395"
+    },
+    {
+      "url": "https://assemblean.com/s275jr/",
+      "filename": "s275jr",
+      "raw_path": "scraped_data/raw/s275jr.json",
+      "markdown_path": "scraped_data/markdown/s275jr.md",
+      "crawl_time": "2025-01-28T11:02:39.231331"
+    },
+    {
+      "url": "https://assemblean.com/42crmo4/",
+      "filename": "42crmo4",
+      "raw_path": "scraped_data/raw/42crmo4.json",
+      "markdown_path": "scraped_data/markdown/42crmo4.md",
+      "crawl_time": "2025-01-28T11:02:41.584994"
+    },
+    {
+      "url": "https://assemblean.com/dc01/",
+      "filename": "dc01",
+      "raw_path": "scraped_data/raw/dc01.json",
+      "markdown_path": "scraped_data/markdown/dc01.md",
+      "crawl_time": "2025-01-28T11:02:41.584778"
+    },
+    {
+      "url": "https://assemblean.com/stahl/",
+      "filename": "stahl",
+      "raw_path": "scraped_data/raw/stahl.json",
+      "markdown_path": "scraped_data/markdown/stahl.md",
+      "crawl_time": "2025-01-28T11:02:41.017609"
+    },
+    {
+      "url": "https://assemblean.com/x153crmov12/",
+      "filename": "x153crmov12",
+      "raw_path": "scraped_data/raw/x153crmov12.json",
+      "markdown_path": "scraped_data/markdown/x153crmov12.md",
+      "crawl_time": "2025-01-28T11:02:41.013290"
+    },
+    {
+      "url": "https://assemblean.com/cnc-drilled-parts/",
+      "filename": "cnc-drilled-parts",
+      "raw_path": "scraped_data/raw/cnc-drilled-parts.json",
+      "markdown_path": "scraped_data/markdown/cnc-drilled-parts.md",
+      "crawl_time": "2025-01-28T11:02:41.584499"
+    },
+    {
+      "url": "https://assemblean.com/wasserstrahlschneiden/",
+      "filename": "wasserstrahlschneiden",
+      "raw_path": "scraped_data/raw/wasserstrahlschneiden.json",
+      "markdown_path": "scraped_data/markdown/wasserstrahlschneiden.md",
+      "crawl_time": "2025-01-28T11:02:41.585150"
+    },
+    {
+      "url": "https://assemblean.com/cnc-fraesteile/",
+      "filename": "cnc-fraesteile",
+      "raw_path": "scraped_data/raw/cnc-fraesteile.json",
+      "markdown_path": "scraped_data/markdown/cnc-fraesteile.md",
+      "crawl_time": "2025-01-28T11:02:41.584194"
+    },
+    {
+      "url": "https://assemblean.com/cnc-bohrteile/",
+      "filename": "cnc-bohrteile",
+      "raw_path": "scraped_data/raw/cnc-bohrteile.json",
+      "markdown_path": "scraped_data/markdown/cnc-bohrteile.md",
+      "crawl_time": "2025-01-28T11:02:41.017820"
+    },
+    {
+      "url": "https://assemblean.com/cnc-drehteile/",
+      "filename": "cnc-drehteile",
+      "raw_path": "scraped_data/raw/cnc-drehteile.json",
+      "markdown_path": "scraped_data/markdown/cnc-drehteile.md",
+      "crawl_time": "2025-01-28T11:02:41.583813"
+    },
+    {
+      "url": "https://assemblean.com/cnc-turned-parts/",
+      "filename": "cnc-turned-parts",
+      "raw_path": "scraped_data/raw/cnc-turned-parts.json",
+      "markdown_path": "scraped_data/markdown/cnc-turned-parts.md",
+      "crawl_time": "2025-01-28T11:02:49.174463"
+    },
+    {
+      "url": "https://assemblean.com/cnc-machining/",
+      "filename": "cnc-machining",
+      "raw_path": "scraped_data/raw/cnc-machining.json",
+      "markdown_path": "scraped_data/markdown/cnc-machining.md",
+      "crawl_time": "2025-01-28T11:02:49.091616"
+    },
+    {
+      "url": "https://assemblean.com/blechbearbeitung/",
+      "filename": "blechbearbeitung",
+      "raw_path": "scraped_data/raw/blechbearbeitung.json",
+      "markdown_path": "scraped_data/markdown/blechbearbeitung.md",
+      "crawl_time": "2025-01-28T11:02:48.969731"
+    },
+    {
+      "url": "https://assemblean.com/start-ups/",
+      "filename": "start-ups",
+      "raw_path": "scraped_data/raw/start-ups.json",
+      "markdown_path": "scraped_data/markdown/start-ups.md",
+      "crawl_time": "2025-01-28T11:02:49.339719"
+    },
+    {
+      "url": "https://assemblean.com/start-ups-en/",
+      "filename": "start-ups-en",
+      "raw_path": "scraped_data/raw/start-ups-en.json",
+      "markdown_path": "scraped_data/markdown/start-ups-en.md",
+      "crawl_time": "2025-01-28T11:02:47.955854"
+    },
+    {
+      "url": "https://assemblean.com/cnc-milled-parts/",
+      "filename": "cnc-milled-parts",
+      "raw_path": "scraped_data/raw/cnc-milled-parts.json",
+      "markdown_path": "scraped_data/markdown/cnc-milled-parts.md",
+      "crawl_time": "2025-01-28T11:02:49.174312"
+    },
+    {
+      "url": "https://assemblean.com/sheet-metal-processing/",
+      "filename": "sheet-metal-processing",
+      "raw_path": "scraped_data/raw/sheet-metal-processing.json",
+      "markdown_path": "scraped_data/markdown/sheet-metal-processing.md",
+      "crawl_time": "2025-01-28T11:02:48.400765"
+    },
+    {
+      "url": "https://assemblean.com/vacuum-casting/",
+      "filename": "vacuum-casting",
+      "raw_path": "scraped_data/raw/vacuum-casting.json",
+      "markdown_path": "scraped_data/markdown/vacuum-casting.md",
+      "crawl_time": "2025-01-28T11:02:49.009717"
+    },
+    {
+      "url": "https://assemblean.com/die-casting/",
+      "filename": "die-casting",
+      "raw_path": "scraped_data/raw/die-casting.json",
+      "markdown_path": "scraped_data/markdown/die-casting.md",
+      "crawl_time": "2025-01-28T11:02:49.041140"
+    },
+    {
+      "url": "https://assemblean.com/druckguss/",
+      "filename": "druckguss",
+      "raw_path": "scraped_data/raw/druckguss.json",
+      "markdown_path": "scraped_data/markdown/druckguss.md",
+      "crawl_time": "2025-01-28T11:02:49.040924"
+    },
+    {
+      "url": "https://assemblean.com/injection-moulding/",
+      "filename": "injection-moulding",
+      "raw_path": "scraped_data/raw/injection-moulding.json",
+      "markdown_path": "scraped_data/markdown/injection-moulding.md",
+      "crawl_time": "2025-01-28T11:02:54.951603"
+    },
+    {
+      "url": "https://assemblean.com/es/",
+      "filename": "es",
+      "raw_path": "scraped_data/raw/es.json",
+      "markdown_path": "scraped_data/markdown/es.md",
+      "crawl_time": "2025-01-28T11:02:56.399575"
+    },
+    {
+      "url": "https://assemblean.com/fr/",
+      "filename": "fr",
+      "raw_path": "scraped_data/raw/fr.json",
+      "markdown_path": "scraped_data/markdown/fr.md",
+      "crawl_time": "2025-01-28T11:02:54.451415"
+    },
+    {
+      "url": "https://assemblean.com/it/",
+      "filename": "it",
+      "raw_path": "scraped_data/raw/it.json",
+      "markdown_path": "scraped_data/markdown/it.md",
+      "crawl_time": "2025-01-28T11:02:54.951013"
+    },
+    {
+      "url": "https://assemblean.com/zh/",
+      "filename": "zh",
+      "raw_path": "scraped_data/raw/zh.json",
+      "markdown_path": "scraped_data/markdown/zh.md",
+      "crawl_time": "2025-01-28T11:02:55.510724"
+    },
+    {
+      "url": "https://assemblean.com/2-1090/",
+      "filename": "2-1090",
+      "raw_path": "scraped_data/raw/2-1090.json",
+      "markdown_path": "scraped_data/markdown/2-1090.md",
+      "crawl_time": "2025-01-28T11:02:54.630031"
+    },
+    {
+      "url": "https://assemblean.com/laserteile/",
+      "filename": "laserteile",
+      "raw_path": "scraped_data/raw/laserteile.json",
+      "markdown_path": "scraped_data/markdown/laserteile.md",
+      "crawl_time": "2025-01-28T11:02:55.430050"
+    },
+    {
+      "url": "https://assemblean.com/waterjet-cutting/",
+      "filename": "waterjet-cutting",
+      "raw_path": "scraped_data/raw/waterjet-cutting.json",
+      "markdown_path": "scraped_data/markdown/waterjet-cutting.md",
+      "crawl_time": "2025-01-28T11:02:57.331004"
+    },
+    {
+      "url": "https://assemblean.com/laser-cutting/",
+      "filename": "laser-cutting",
+      "raw_path": "scraped_data/raw/laser-cutting.json",
+      "markdown_path": "scraped_data/markdown/laser-cutting.md",
+      "crawl_time": "2025-01-28T11:03:03.135068"
+    },
+    {
+      "url": "https://assemblean.com/cnc/",
+      "filename": "cnc",
+      "raw_path": "scraped_data/raw/cnc.json",
+      "markdown_path": "scraped_data/markdown/cnc.md",
+      "crawl_time": "2025-01-28T11:02:54.630340"
+    },
+    {
+      "url": "https://assemblean.com/erodieren/",
+      "filename": "erodieren",
+      "raw_path": "scraped_data/raw/erodieren.json",
+      "markdown_path": "scraped_data/markdown/erodieren.md",
+      "crawl_time": "2025-01-28T11:03:09.838951"
+    },
+    {
+      "url": "https://assemblean.com/eroding/",
+      "filename": "eroding",
+      "raw_path": "scraped_data/raw/eroding.json",
+      "markdown_path": "scraped_data/markdown/eroding.md",
+      "crawl_time": "2025-01-28T11:03:10.029033"
+    },
+    {
+      "url": "https://assemblean.com/nachbearbeitungen/",
+      "filename": "nachbearbeitungen",
+      "raw_path": "scraped_data/raw/nachbearbeitungen.json",
+      "markdown_path": "scraped_data/markdown/nachbearbeitungen.md",
+      "crawl_time": "2025-01-28T11:03:09.839292"
+    },
+    {
+      "url": "https://assemblean.com/polieren/",
+      "filename": "polieren",
+      "raw_path": "scraped_data/raw/polieren.json",
+      "markdown_path": "scraped_data/markdown/polieren.md",
+      "crawl_time": "2025-01-28T11:03:09.952142"
+    },
+    {
+      "url": "https://assemblean.com/nachbearbeitungen-elektropolieren/",
+      "filename": "nachbearbeitungen-elektropolieren",
+      "raw_path": "scraped_data/raw/nachbearbeitungen-elektropolieren.json",
+      "markdown_path": "scraped_data/markdown/nachbearbeitungen-elektropolieren.md",
+      "crawl_time": "2025-01-28T11:03:09.233402"
+    },
+    {
+      "url": "https://assemblean.com/nachbearbeitungen-bruenieren/",
+      "filename": "nachbearbeitungen-bruenieren",
+      "raw_path": "scraped_data/raw/nachbearbeitungen-bruenieren.json",
+      "markdown_path": "scraped_data/markdown/nachbearbeitungen-bruenieren.md",
+      "crawl_time": "2025-01-28T11:03:09.018216"
+    },
+    {
+      "url": "https://assemblean.com/laeppen/",
+      "filename": "laeppen",
+      "raw_path": "scraped_data/raw/laeppen.json",
+      "markdown_path": "scraped_data/markdown/laeppen.md",
+      "crawl_time": "2025-01-28T11:03:09.534856"
+    },
+    {
+      "url": "https://assemblean.com/ueber-uns/",
+      "filename": "ueber-uns",
+      "raw_path": "scraped_data/raw/ueber-uns.json",
+      "markdown_path": "scraped_data/markdown/ueber-uns.md",
+      "crawl_time": "2025-01-28T11:03:09.580272"
+    },
+    {
+      "url": "https://assemblean.com/about-us/",
+      "filename": "about-us",
+      "raw_path": "scraped_data/raw/about-us.json",
+      "markdown_path": "scraped_data/markdown/about-us.md",
+      "crawl_time": "2025-01-28T11:03:09.233937"
+    },
+    {
+      "url": "https://assemblean.com/schweissverfahren/",
+      "filename": "schweissverfahren",
+      "raw_path": "scraped_data/raw/schweissverfahren.json",
+      "markdown_path": "scraped_data/markdown/schweissverfahren.md",
+      "crawl_time": "2025-01-28T11:03:09.526881"
+    },
+    {
+      "url": "https://assemblean.com/blog-de/",
+      "filename": "blog-de",
+      "raw_path": "scraped_data/raw/blog-de.json",
+      "markdown_path": "scraped_data/markdown/blog-de.md",
+      "crawl_time": "2025-01-28T11:03:15.983571"
+    },
+    {
+      "url": "https://assemblean.com/the-start-up-guide-for-developing-a-physical-product/",
+      "filename": "the-start-up-guide-for-developing-a-physical-product",
+      "raw_path": "scraped_data/raw/the-start-up-guide-for-developing-a-physical-product.json",
+      "markdown_path": "scraped_data/markdown/the-start-up-guide-for-developing-a-physical-product.md",
+      "crawl_time": "2025-01-28T11:03:15.983306"
+    },
+    {
+      "url": "https://assemblean.com/der-start-up-guide-fuer-die-entwicklung-eines-physischen-produkts/",
+      "filename": "der-start-up-guide-fuer-die-entwicklung-eines-physischen-produkts",
+      "raw_path": "scraped_data/raw/der-start-up-guide-fuer-die-entwicklung-eines-physischen-produkts.json",
+      "markdown_path": "scraped_data/markdown/der-start-up-guide-fuer-die-entwicklung-eines-physischen-produkts.md",
+      "crawl_time": "2025-01-28T11:03:15.876965"
+    },
+    {
+      "url": "https://assemblean.com/what-are-the-most-important-die-casting-design-tips/",
+      "filename": "what-are-the-most-important-die-casting-design-tips",
+      "raw_path": "scraped_data/raw/what-are-the-most-important-die-casting-design-tips.json",
+      "markdown_path": "scraped_data/markdown/what-are-the-most-important-die-casting-design-tips.md",
+      "crawl_time": "2025-01-28T11:03:15.421984"
+    },
+    {
+      "url": "https://assemblean.com/7-3d-printing-design-tips-for-flawless-parts/",
+      "filename": "7-3d-printing-design-tips-for-flawless-parts",
+      "raw_path": "scraped_data/raw/7-3d-printing-design-tips-for-flawless-parts.json",
+      "markdown_path": "scraped_data/markdown/7-3d-printing-design-tips-for-flawless-parts.md",
+      "crawl_time": "2025-01-28T11:03:15.591494"
+    },
+    {
+      "url": "https://assemblean.com/7-3d-druck-design-tipps-fuer-einwandfreie-teile/",
+      "filename": "7-3d-druck-design-tipps-fuer-einwandfreie-teile",
+      "raw_path": "scraped_data/raw/7-3d-druck-design-tipps-fuer-einwandfreie-teile.json",
+      "markdown_path": "scraped_data/markdown/7-3d-druck-design-tipps-fuer-einwandfreie-teile.md",
+      "crawl_time": "2025-01-28T11:03:15.062180"
+    },
+    {
+      "url": "https://assemblean.com/9-cnc-design-tips-for-better-cnc-parts/",
+      "filename": "9-cnc-design-tips-for-better-cnc-parts",
+      "raw_path": "scraped_data/raw/9-cnc-design-tips-for-better-cnc-parts.json",
+      "markdown_path": "scraped_data/markdown/9-cnc-design-tips-for-better-cnc-parts.md",
+      "crawl_time": "2025-01-28T11:03:16.271756"
+    },
+    {
+      "url": "https://assemblean.com/9-cnc-design-tipps-fuer-optimale-dreh-und-fraesteile/",
+      "filename": "9-cnc-design-tipps-fuer-optimale-dreh-und-fraesteile",
+      "raw_path": "scraped_data/raw/9-cnc-design-tipps-fuer-optimale-dreh-und-fraesteile.json",
+      "markdown_path": "scraped_data/markdown/9-cnc-design-tipps-fuer-optimale-dreh-und-fraesteile.md",
+      "crawl_time": "2025-01-28T11:03:15.346274"
+    },
+    {
+      "url": "https://assemblean.com/vakuumguss-hochwertige-kunststoffteile-in-kleinserien/",
+      "filename": "vakuumguss-hochwertige-kunststoffteile-in-kleinserien",
+      "raw_path": "scraped_data/raw/vakuumguss-hochwertige-kunststoffteile-in-kleinserien.json",
+      "markdown_path": "scraped_data/markdown/vakuumguss-hochwertige-kunststoffteile-in-kleinserien.md",
+      "crawl_time": "2025-01-28T11:03:16.138727"
+    },
+    {
+      "url": "https://assemblean.com/was-sind-die-wichtigsten-druckguss-design-hinweise/",
+      "filename": "was-sind-die-wichtigsten-druckguss-design-hinweise",
+      "raw_path": "scraped_data/raw/was-sind-die-wichtigsten-druckguss-design-hinweise.json",
+      "markdown_path": "scraped_data/markdown/was-sind-die-wichtigsten-druckguss-design-hinweise.md",
+      "crawl_time": "2025-01-28T11:03:15.125481"
+    },
+    {
+      "url": "https://assemblean.com/make-or-buy-decision/",
+      "filename": "make-or-buy-decision",
+      "raw_path": "scraped_data/raw/make-or-buy-decision.json",
+      "markdown_path": "scraped_data/markdown/make-or-buy-decision.md",
+      "crawl_time": "2025-01-28T11:03:22.861699"
+    },
+    {
+      "url": "https://assemblean.com/make-or-buy-entscheidung/",
+      "filename": "make-or-buy-entscheidung",
+      "raw_path": "scraped_data/raw/make-or-buy-entscheidung.json",
+      "markdown_path": "scraped_data/markdown/make-or-buy-entscheidung.md",
+      "crawl_time": "2025-01-28T11:03:22.380530"
+    },
+    {
+      "url": "https://assemblean.com/what-are-the-most-important-injection-molding-design-tips/",
+      "filename": "what-are-the-most-important-injection-molding-design-tips",
+      "raw_path": "scraped_data/raw/what-are-the-most-important-injection-molding-design-tips.json",
+      "markdown_path": "scraped_data/markdown/what-are-the-most-important-injection-molding-design-tips.md",
+      "crawl_time": "2025-01-28T11:03:23.027510"
+    },
+    {
+      "url": "https://assemblean.com/was-sind-die-wichtigsten-spritzguss-design-hinweise/",
+      "filename": "was-sind-die-wichtigsten-spritzguss-design-hinweise",
+      "raw_path": "scraped_data/raw/was-sind-die-wichtigsten-spritzguss-design-hinweise.json",
+      "markdown_path": "scraped_data/markdown/was-sind-die-wichtigsten-spritzguss-design-hinweise.md",
+      "crawl_time": "2025-01-28T11:03:22.006499"
+    },
+    {
+      "url": "https://assemblean.com/5-useful-supply-chain-trends-to-look-out-for-in-2023/",
+      "filename": "5-useful-supply-chain-trends-to-look-out-for-in-2023",
+      "raw_path": "scraped_data/raw/5-useful-supply-chain-trends-to-look-out-for-in-2023.json",
+      "markdown_path": "scraped_data/markdown/5-useful-supply-chain-trends-to-look-out-for-in-2023.md",
+      "crawl_time": "2025-01-28T11:03:23.383724"
+    },
+    {
+      "url": "https://assemblean.com/injection-molding-vs-die-casting-what-is-the-difference/",
+      "filename": "injection-molding-vs-die-casting-what-is-the-difference",
+      "raw_path": "scraped_data/raw/injection-molding-vs-die-casting-what-is-the-difference.json",
+      "markdown_path": "scraped_data/markdown/injection-molding-vs-die-casting-what-is-the-difference.md",
+      "crawl_time": "2025-01-28T11:03:22.241743"
+    },
+    {
+      "url": "https://assemblean.com/how-can-assembly-process-planning-improve-production/",
+      "filename": "how-can-assembly-process-planning-improve-production",
+      "raw_path": "scraped_data/raw/how-can-assembly-process-planning-improve-production.json",
+      "markdown_path": "scraped_data/markdown/how-can-assembly-process-planning-improve-production.md",
+      "crawl_time": "2025-01-28T11:03:22.380108"
+    },
+    {
+      "url": "https://assemblean.com/wie-kann-montageprozessplanung-die-produktion-verbessern/",
+      "filename": "wie-kann-montageprozessplanung-die-produktion-verbessern",
+      "raw_path": "scraped_data/raw/wie-kann-montageprozessplanung-die-produktion-verbessern.json",
+      "markdown_path": "scraped_data/markdown/wie-kann-montageprozessplanung-die-produktion-verbessern.md",
+      "crawl_time": "2025-01-28T11:03:22.933465"
+    },
+    {
+      "url": "https://assemblean.com/spritzguss-vs-druckguss-was-sind-die-unterschiede/",
+      "filename": "spritzguss-vs-druckguss-was-sind-die-unterschiede",
+      "raw_path": "scraped_data/raw/spritzguss-vs-druckguss-was-sind-die-unterschiede.json",
+      "markdown_path": "scraped_data/markdown/spritzguss-vs-druckguss-was-sind-die-unterschiede.md",
+      "crawl_time": "2025-01-28T11:03:23.915649"
+    },
+    {
+      "url": "https://assemblean.com/3-nuetzliche-supply-chain-trends-die-du-2023-beachten-solltest/",
+      "filename": "3-nuetzliche-supply-chain-trends-die-du-2023-beachten-solltest",
+      "raw_path": "scraped_data/raw/3-nuetzliche-supply-chain-trends-die-du-2023-beachten-solltest.json",
+      "markdown_path": "scraped_data/markdown/3-nuetzliche-supply-chain-trends-die-du-2023-beachten-solltest.md",
+      "crawl_time": "2025-01-28T11:03:21.546059"
+    },
+    {
+      "url": "https://assemblean.com/",
+      "filename": "assemblean.com",
+      "raw_path": "scraped_data/raw/assemblean.com.json",
+      "markdown_path": "scraped_data/markdown/assemblean.com.md",
+      "crawl_time": "2025-01-28T11:03:29.972791"
+    },
+    {
+      "url": "https://assemblean.com/paas/",
+      "filename": "paas",
+      "raw_path": "scraped_data/raw/paas.json",
+      "markdown_path": "scraped_data/markdown/paas.md",
+      "crawl_time": "2025-01-28T11:03:29.150109"
+    },
+    {
+      "url": "https://assemblean.com/blog-en/",
+      "filename": "blog-en",
+      "raw_path": "scraped_data/raw/blog-en.json",
+      "markdown_path": "scraped_data/markdown/blog-en.md",
+      "crawl_time": "2025-01-28T11:03:31.052482"
+    },
+    {
+      "url": "https://assemblean.com/faq/",
+      "filename": "faq",
+      "raw_path": "scraped_data/raw/faq.json",
+      "markdown_path": "scraped_data/markdown/faq.md",
+      "crawl_time": "2025-01-28T11:03:31.658814"
+    },
+    {
+      "url": "https://assemblean.com/faq-2/",
+      "filename": "faq-2",
+      "raw_path": "scraped_data/raw/faq-2.json",
+      "markdown_path": "scraped_data/markdown/faq-2.md",
+      "crawl_time": "2025-01-28T11:03:29.581100"
+    },
+    {
+      "url": "https://assemblean.com/contact/",
+      "filename": "contact",
+      "raw_path": "scraped_data/raw/contact.json",
+      "markdown_path": "scraped_data/markdown/contact.md",
+      "crawl_time": "2025-01-28T11:03:29.847011"
+    },
+    {
+      "url": "https://assemblean.com/kontakt/",
+      "filename": "kontakt",
+      "raw_path": "scraped_data/raw/kontakt.json",
+      "markdown_path": "scraped_data/markdown/kontakt.md",
+      "crawl_time": "2025-01-28T11:03:30.034130"
+    },
+    {
+      "url": "https://assemblean.com/druckguss-in-vier-schritten/",
+      "filename": "druckguss-in-vier-schritten",
+      "raw_path": "scraped_data/raw/druckguss-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/druckguss-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:03:29.847479"
+    },
+    {
+      "url": "https://assemblean.com/3d-druck-in-vier-schritten/",
+      "filename": "3d-druck-in-vier-schritten",
+      "raw_path": "scraped_data/raw/3d-druck-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/3d-druck-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:03:29.722607"
+    },
+    {
+      "url": "https://assemblean.com/blechbearbeitung-in-vier-schritten/",
+      "filename": "blechbearbeitung-in-vier-schritten",
+      "raw_path": "scraped_data/raw/blechbearbeitung-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/blechbearbeitung-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:03:29.310003"
+    },
+    {
+      "url": "https://assemblean.com/elektronikgehaeuse/",
+      "filename": "elektronikgehaeuse",
+      "raw_path": "scraped_data/raw/elektronikgehaeuse.json",
+      "markdown_path": "scraped_data/markdown/elektronikgehaeuse.md",
+      "crawl_time": "2025-01-28T11:03:38.220575"
+    },
+    {
+      "url": "https://assemblean.com/elektronische-bauteile/",
+      "filename": "elektronische-bauteile",
+      "raw_path": "scraped_data/raw/elektronische-bauteile.json",
+      "markdown_path": "scraped_data/markdown/elektronische-bauteile.md",
+      "crawl_time": "2025-01-28T11:03:40.133943"
+    },
+    {
+      "url": "https://assemblean.com/produktions-services-home/",
+      "filename": "produktions-services-home",
+      "raw_path": "scraped_data/raw/produktions-services-home.json",
+      "markdown_path": "scraped_data/markdown/produktions-services-home.md",
+      "crawl_time": "2025-01-28T11:03:38.730759"
+    },
+    {
+      "url": "https://assemblean.com/leiterplatten/",
+      "filename": "leiterplatten",
+      "raw_path": "scraped_data/raw/leiterplatten.json",
+      "markdown_path": "scraped_data/markdown/leiterplatten.md",
+      "crawl_time": "2025-01-28T11:03:38.730909"
+    },
+    {
+      "url": "https://assemblean.com/montage-in-vier-schritten/",
+      "filename": "montage-in-vier-schritten",
+      "raw_path": "scraped_data/raw/montage-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/montage-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:03:38.401189"
+    },
+    {
+      "url": "https://assemblean.com/vakuumguss-in-vier-schritten/",
+      "filename": "vakuumguss-in-vier-schritten",
+      "raw_path": "scraped_data/raw/vakuumguss-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/vakuumguss-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:03:40.047473"
+    },
+    {
+      "url": "https://assemblean.com/vakuumguss-statt-3d-druck/",
+      "filename": "vakuumguss-statt-3d-druck",
+      "raw_path": "scraped_data/raw/vakuumguss-statt-3d-druck.json",
+      "markdown_path": "scraped_data/markdown/vakuumguss-statt-3d-druck.md",
+      "crawl_time": "2025-01-28T11:03:38.730491"
+    },
+    {
+      "url": "https://assemblean.com/vakuumguss/",
+      "filename": "vakuumguss",
+      "raw_path": "scraped_data/raw/vakuumguss.json",
+      "markdown_path": "scraped_data/markdown/vakuumguss.md",
+      "crawl_time": "2025-01-28T11:03:38.730309"
+    },
+    {
+      "url": "https://assemblean.com/baugruppenfertigung/",
+      "filename": "baugruppenfertigung",
+      "raw_path": "scraped_data/raw/baugruppenfertigung.json",
+      "markdown_path": "scraped_data/markdown/baugruppenfertigung.md",
+      "crawl_time": "2025-01-28T11:03:40.404159"
+    },
+    {
+      "url": "https://assemblean.com/assembly-manufacturing/",
+      "filename": "assembly-manufacturing",
+      "raw_path": "scraped_data/raw/assembly-manufacturing.json",
+      "markdown_path": "scraped_data/markdown/assembly-manufacturing.md",
+      "crawl_time": "2025-01-28T11:03:39.995543"
+    },
+    {
+      "url": "https://assemblean.com/spritzguss-in-vier-schritten/",
+      "filename": "spritzguss-in-vier-schritten",
+      "raw_path": "scraped_data/raw/spritzguss-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/spritzguss-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:03:47.163734"
+    },
+    {
+      "url": "https://assemblean.com/startup/",
+      "filename": "startup",
+      "raw_path": "scraped_data/raw/startup.json",
+      "markdown_path": "scraped_data/markdown/startup.md",
+      "crawl_time": "2025-01-28T11:03:48.036481"
+    },
+    {
+      "url": "https://assemblean.com/spritzguss/",
+      "filename": "spritzguss",
+      "raw_path": "scraped_data/raw/spritzguss.json",
+      "markdown_path": "scraped_data/markdown/spritzguss.md",
+      "crawl_time": "2025-01-28T11:03:46.963071"
+    },
+    {
+      "url": "https://assemblean.com/magnesium/",
+      "filename": "magnesium",
+      "raw_path": "scraped_data/raw/magnesium.json",
+      "markdown_path": "scraped_data/markdown/magnesium.md",
+      "crawl_time": "2025-01-28T11:03:46.651349"
+    },
+    {
+      "url": "https://assemblean.com/magnesium-en/",
+      "filename": "magnesium-en",
+      "raw_path": "scraped_data/raw/magnesium-en.json",
+      "markdown_path": "scraped_data/markdown/magnesium-en.md",
+      "crawl_time": "2025-01-28T11:03:46.967393"
+    },
+    {
+      "url": "https://assemblean.com/service-post-processings/",
+      "filename": "service-post-processings",
+      "raw_path": "scraped_data/raw/service-post-processings.json",
+      "markdown_path": "scraped_data/markdown/service-post-processings.md",
+      "crawl_time": "2025-01-28T11:03:47.067094"
+    },
+    {
+      "url": "https://assemblean.com/aluminium-en/",
+      "filename": "aluminium-en",
+      "raw_path": "scraped_data/raw/aluminium-en.json",
+      "markdown_path": "scraped_data/markdown/aluminium-en.md",
+      "crawl_time": "2025-01-28T11:03:46.391602"
+    },
+    {
+      "url": "https://assemblean.com/stainless-steel/",
+      "filename": "stainless-steel",
+      "raw_path": "scraped_data/raw/stainless-steel.json",
+      "markdown_path": "scraped_data/markdown/stainless-steel.md",
+      "crawl_time": "2025-01-28T11:03:46.469183"
+    },
+    {
+      "url": "https://assemblean.com/kupfer/",
+      "filename": "kupfer",
+      "raw_path": "scraped_data/raw/kupfer.json",
+      "markdown_path": "scraped_data/markdown/kupfer.md",
+      "crawl_time": "2025-01-28T11:03:46.959002"
+    },
+    {
+      "url": "https://assemblean.com/copper/",
+      "filename": "copper",
+      "raw_path": "scraped_data/raw/copper.json",
+      "markdown_path": "scraped_data/markdown/copper.md",
+      "crawl_time": "2025-01-28T11:03:46.965643"
+    },
+    {
+      "url": "https://assemblean.com/steel/",
+      "filename": "steel",
+      "raw_path": "scraped_data/raw/steel.json",
+      "markdown_path": "scraped_data/markdown/steel.md",
+      "crawl_time": "2025-01-28T11:03:57.787792"
+    },
+    {
+      "url": "https://assemblean.com/titanium/",
+      "filename": "titanium",
+      "raw_path": "scraped_data/raw/titanium.json",
+      "markdown_path": "scraped_data/markdown/titanium.md",
+      "crawl_time": "2025-01-28T11:03:56.458930"
+    },
+    {
+      "url": "https://assemblean.com/zink/",
+      "filename": "zink",
+      "raw_path": "scraped_data/raw/zink.json",
+      "markdown_path": "scraped_data/markdown/zink.md",
+      "crawl_time": "2025-01-28T11:04:00.440479"
+    },
+    {
+      "url": "https://assemblean.com/zinc/",
+      "filename": "zinc",
+      "raw_path": "scraped_data/raw/zinc.json",
+      "markdown_path": "scraped_data/markdown/zinc.md",
+      "crawl_time": "2025-01-28T11:03:53.933750"
+    },
+    {
+      "url": "https://assemblean.com/en/",
+      "filename": "en",
+      "raw_path": "scraped_data/raw/en.json",
+      "markdown_path": "scraped_data/markdown/en.md",
+      "crawl_time": "2025-01-28T11:03:54.336187"
+    },
+    {
+      "url": "https://assemblean.com/edelstahl/",
+      "filename": "edelstahl",
+      "raw_path": "scraped_data/raw/edelstahl.json",
+      "markdown_path": "scraped_data/markdown/edelstahl.md",
+      "crawl_time": "2025-01-28T11:03:53.933878"
+    },
+    {
+      "url": "https://assemblean.com/titan/",
+      "filename": "titan",
+      "raw_path": "scraped_data/raw/titan.json",
+      "markdown_path": "scraped_data/markdown/titan.md",
+      "crawl_time": "2025-01-28T11:03:53.777569"
+    },
+    {
+      "url": "https://assemblean.com/cnc-fertigung-in-vier-schritten/",
+      "filename": "cnc-fertigung-in-vier-schritten",
+      "raw_path": "scraped_data/raw/cnc-fertigung-in-vier-schritten.json",
+      "markdown_path": "scraped_data/markdown/cnc-fertigung-in-vier-schritten.md",
+      "crawl_time": "2025-01-28T11:03:53.258972"
+    },
+    {
+      "url": "https://assemblean.com/2-0321/",
+      "filename": "2-0321",
+      "raw_path": "scraped_data/raw/2-0321.json",
+      "markdown_path": "scraped_data/markdown/2-0321.md",
+      "crawl_time": "2025-01-28T11:03:53.930923"
+    },
+    {
+      "url": "https://assemblean.com/2-0401/",
+      "filename": "2-0401",
+      "raw_path": "scraped_data/raw/2-0401.json",
+      "markdown_path": "scraped_data/markdown/2-0401.md",
+      "crawl_time": "2025-01-28T11:04:00.617586"
+    },
+    {
+      "url": "https://assemblean.com/2-0402/",
+      "filename": "2-0402",
+      "raw_path": "scraped_data/raw/2-0402.json",
+      "markdown_path": "scraped_data/markdown/2-0402.md",
+      "crawl_time": "2025-01-28T11:04:07.401082"
+    },
+    {
+      "url": "https://assemblean.com/2-1030/",
+      "filename": "2-1030",
+      "raw_path": "scraped_data/raw/2-1030.json",
+      "markdown_path": "scraped_data/markdown/2-1030.md",
+      "crawl_time": "2025-01-28T11:04:07.294932"
+    },
+    {
+      "url": "https://assemblean.com/2-1052/",
+      "filename": "2-1052",
+      "raw_path": "scraped_data/raw/2-1052.json",
+      "markdown_path": "scraped_data/markdown/2-1052.md",
+      "crawl_time": "2025-01-28T11:04:08.711424"
+    },
+    {
+      "url": "https://assemblean.com/2-1247/",
+      "filename": "2-1247",
+      "raw_path": "scraped_data/raw/2-1247.json",
+      "markdown_path": "scraped_data/markdown/2-1247.md",
+      "crawl_time": "2025-01-28T11:04:06.751167"
+    },
+    {
+      "url": "https://assemblean.com/2-1293/",
+      "filename": "2-1293",
+      "raw_path": "scraped_data/raw/2-1293.json",
+      "markdown_path": "scraped_data/markdown/2-1293.md",
+      "crawl_time": "2025-01-28T11:04:07.091091"
+    },
+    {
+      "url": "https://assemblean.com/cu-dhp/",
+      "filename": "cu-dhp",
+      "raw_path": "scraped_data/raw/cu-dhp.json",
+      "markdown_path": "scraped_data/markdown/cu-dhp.md",
+      "crawl_time": "2025-01-28T11:04:07.401337"
+    },
+    {
+      "url": "https://assemblean.com/cu-etp/",
+      "filename": "cu-etp",
+      "raw_path": "scraped_data/raw/cu-etp.json",
+      "markdown_path": "scraped_data/markdown/cu-etp.md",
+      "crawl_time": "2025-01-28T11:04:07.400289"
+    },
+    {
+      "url": "https://assemblean.com/materialien-uebersicht/",
+      "filename": "materialien-uebersicht",
+      "raw_path": "scraped_data/raw/materialien-uebersicht.json",
+      "markdown_path": "scraped_data/markdown/materialien-uebersicht.md",
+      "crawl_time": "2025-01-28T11:04:07.097840"
+    },
+    {
+      "url": "https://assemblean.com/materials-overview/",
+      "filename": "materials-overview",
+      "raw_path": "scraped_data/raw/materials-overview.json",
+      "markdown_path": "scraped_data/markdown/materials-overview.md",
+      "crawl_time": "2025-01-28T11:04:07.284770"
+    },
+    {
+      "url": "https://assemblean.com/aisi-304/",
+      "filename": "aisi-304",
+      "raw_path": "scraped_data/raw/aisi-304.json",
+      "markdown_path": "scraped_data/markdown/aisi-304.md",
+      "crawl_time": "2025-01-28T11:04:06.175790"
+    },
+    {
+      "url": "https://assemblean.com/aisi-316-ti/",
+      "filename": "aisi-316-ti",
+      "raw_path": "scraped_data/raw/aisi-316-ti.json",
+      "markdown_path": "scraped_data/markdown/aisi-316-ti.md",
+      "crawl_time": "2025-01-28T11:04:14.889519"
+    },
+    {
+      "url": "https://assemblean.com/aisi-316l/",
+      "filename": "aisi-316l",
+      "raw_path": "scraped_data/raw/aisi-316l.json",
+      "markdown_path": "scraped_data/markdown/aisi-316l.md",
+      "crawl_time": "2025-01-28T11:04:21.734498"
+    },
+    {
+      "url": "https://assemblean.com/aisi-316/",
+      "filename": "aisi-316",
+      "raw_path": "scraped_data/raw/aisi-316.json",
+      "markdown_path": "scraped_data/markdown/aisi-316.md",
+      "crawl_time": "2025-01-28T11:04:14.582227"
+    },
+    {
+      "url": "https://assemblean.com/aisi-303/",
+      "filename": "aisi-303",
+      "raw_path": "scraped_data/raw/aisi-303.json",
+      "markdown_path": "scraped_data/markdown/aisi-303.md",
+      "crawl_time": "2025-01-28T11:04:15.738786"
+    },
+    {
+      "url": "https://assemblean.com/aisi-630/",
+      "filename": "aisi-630",
+      "raw_path": "scraped_data/raw/aisi-630.json",
+      "markdown_path": "scraped_data/markdown/aisi-630.md",
+      "crawl_time": "2025-01-28T11:04:14.582596"
+    },
+    {
+      "url": "https://assemblean.com/aisi-430/",
+      "filename": "aisi-430",
+      "raw_path": "scraped_data/raw/aisi-430.json",
+      "markdown_path": "scraped_data/markdown/aisi-430.md",
+      "crawl_time": "2025-01-28T11:04:14.386325"
+    },
+    {
+      "url": "https://assemblean.com/aisi-420/",
+      "filename": "aisi-420",
+      "raw_path": "scraped_data/raw/aisi-420.json",
+      "markdown_path": "scraped_data/markdown/aisi-420.md",
+      "crawl_time": "2025-01-28T11:04:21.793222"
+    },
+    {
+      "url": "https://assemblean.com/aisi-431/",
+      "filename": "aisi-431",
+      "raw_path": "scraped_data/raw/aisi-431.json",
+      "markdown_path": "scraped_data/markdown/aisi-431.md",
+      "crawl_time": "2025-01-28T11:04:18.503957"
+    },
+    {
+      "url": "https://assemblean.com/aisi-304l/",
+      "filename": "aisi-304l",
+      "raw_path": "scraped_data/raw/aisi-304l.json",
+      "markdown_path": "scraped_data/markdown/aisi-304l.md",
+      "crawl_time": "2025-01-28T11:04:14.091296"
+    },
+    {
+      "url": "https://assemblean.com/titan-grade-2/",
+      "filename": "titan-grade-2",
+      "raw_path": "scraped_data/raw/titan-grade-2.json",
+      "markdown_path": "scraped_data/markdown/titan-grade-2.md",
+      "crawl_time": "2025-01-28T11:04:14.582447"
+    },
+    {
+      "url": "https://assemblean.com/titan-grade-5/",
+      "filename": "titan-grade-5",
+      "raw_path": "scraped_data/raw/titan-grade-5.json",
+      "markdown_path": "scraped_data/markdown/titan-grade-5.md",
+      "crawl_time": "2025-01-28T11:04:31.622555"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-2007/",
+      "filename": "en-aw-2007",
+      "raw_path": "scraped_data/raw/en-aw-2007.json",
+      "markdown_path": "scraped_data/markdown/en-aw-2007.md",
+      "crawl_time": "2025-01-28T11:04:32.046695"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-2017a/",
+      "filename": "en-aw-2017a",
+      "raw_path": "scraped_data/raw/en-aw-2017a.json",
+      "markdown_path": "scraped_data/markdown/en-aw-2017a.md",
+      "crawl_time": "2025-01-28T11:04:32.047151"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-5005/",
+      "filename": "en-aw-5005",
+      "raw_path": "scraped_data/raw/en-aw-5005.json",
+      "markdown_path": "scraped_data/markdown/en-aw-5005.md",
+      "crawl_time": "2025-01-28T11:04:32.046772"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-5083/",
+      "filename": "en-aw-5083",
+      "raw_path": "scraped_data/raw/en-aw-5083.json",
+      "markdown_path": "scraped_data/markdown/en-aw-5083.md",
+      "crawl_time": "2025-01-28T11:04:31.509319"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-5754/",
+      "filename": "en-aw-5754",
+      "raw_path": "scraped_data/raw/en-aw-5754.json",
+      "markdown_path": "scraped_data/markdown/en-aw-5754.md",
+      "crawl_time": "2025-01-28T11:04:31.551969"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-6060/",
+      "filename": "en-aw-6060",
+      "raw_path": "scraped_data/raw/en-aw-6060.json",
+      "markdown_path": "scraped_data/markdown/en-aw-6060.md",
+      "crawl_time": "2025-01-28T11:04:31.761279"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-6061/",
+      "filename": "en-aw-6061",
+      "raw_path": "scraped_data/raw/en-aw-6061.json",
+      "markdown_path": "scraped_data/markdown/en-aw-6061.md",
+      "crawl_time": "2025-01-28T11:04:31.553198"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-6063/",
+      "filename": "en-aw-6063",
+      "raw_path": "scraped_data/raw/en-aw-6063.json",
+      "markdown_path": "scraped_data/markdown/en-aw-6063.md",
+      "crawl_time": "2025-01-28T11:04:31.552890"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-6082/",
+      "filename": "en-aw-6082",
+      "raw_path": "scraped_data/raw/en-aw-6082.json",
+      "markdown_path": "scraped_data/markdown/en-aw-6082.md",
+      "crawl_time": "2025-01-28T11:04:32.046976"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-7020/",
+      "filename": "en-aw-7020",
+      "raw_path": "scraped_data/raw/en-aw-7020.json",
+      "markdown_path": "scraped_data/markdown/en-aw-7020.md",
+      "crawl_time": "2025-01-28T11:04:48.005789"
+    },
+    {
+      "url": "https://assemblean.com/en-aw-7075/",
+      "filename": "en-aw-7075",
+      "raw_path": "scraped_data/raw/en-aw-7075.json",
+      "markdown_path": "scraped_data/markdown/en-aw-7075.md",
+      "crawl_time": "2025-01-28T11:04:48.005340"
+    },
+    {
+      "url": "https://assemblean.com/lexikon/",
+      "filename": "lexikon",
+      "raw_path": "scraped_data/raw/lexikon.json",
+      "markdown_path": "scraped_data/markdown/lexikon.md",
+      "crawl_time": "2025-01-28T11:04:39.380399"
+    },
+    {
+      "url": "https://assemblean.com/aluminium/",
+      "filename": "aluminium",
+      "raw_path": "scraped_data/raw/aluminium.json",
+      "markdown_path": "scraped_data/markdown/aluminium.md",
+      "crawl_time": "2025-01-28T11:04:47.860412"
+    },
+    {
+      "url": "https://assemblean.com/c45/",
+      "filename": "c45",
+      "raw_path": "scraped_data/raw/c45.json",
+      "markdown_path": "scraped_data/markdown/c45.md",
+      "crawl_time": "2025-01-28T11:04:38.509434"
+    },
+    {
+      "url": "https://assemblean.com/s235jr/",
+      "filename": "s235jr",
+      "raw_path": "scraped_data/raw/s235jr.json",
+      "markdown_path": "scraped_data/markdown/s235jr.md",
+      "crawl_time": "2025-01-28T11:04:38.028031"
+    },
+    {
+      "url": "https://assemblean.com/s355j2g3/",
+      "filename": "s355j2g3",
+      "raw_path": "scraped_data/raw/s355j2g3.json",
+      "markdown_path": "scraped_data/markdown/s355j2g3.md",
+      "crawl_time": "2025-01-28T11:04:40.112747"
+    },
+    {
+      "url": "https://assemblean.com/90mncrv8/",
+      "filename": "90mncrv8",
+      "raw_path": "scraped_data/raw/90mncrv8.json",
+      "markdown_path": "scraped_data/markdown/90mncrv8.md",
+      "crawl_time": "2025-01-28T11:04:41.136533"
+    },
+    {
+      "url": "https://assemblean.com/16mncr5/",
+      "filename": "16mncr5",
+      "raw_path": "scraped_data/raw/16mncr5.json",
+      "markdown_path": "scraped_data/markdown/16mncr5.md",
+      "crawl_time": "2025-01-28T11:04:37.204552"
+    },
+    {
+      "url": "https://assemblean.com/25crmo4/",
+      "filename": "25crmo4",
+      "raw_path": "scraped_data/raw/25crmo4.json",
+      "markdown_path": "scraped_data/markdown/25crmo4.md",
+      "crawl_time": "2025-01-28T11:04:39.693168"
+    },
+    {
+      "url": "https://assemblean.com/s275jr/",
+      "filename": "s275jr",
+      "raw_path": "scraped_data/raw/s275jr.json",
+      "markdown_path": "scraped_data/markdown/s275jr.md",
+      "crawl_time": "2025-01-28T11:04:57.302376"
+    },
+    {
+      "url": "https://assemblean.com/42crmo4/",
+      "filename": "42crmo4",
+      "raw_path": "scraped_data/raw/42crmo4.json",
+      "markdown_path": "scraped_data/markdown/42crmo4.md",
+      "crawl_time": "2025-01-28T11:04:56.845685"
+    },
+    {
+      "url": "https://assemblean.com/dc01/",
+      "filename": "dc01",
+      "raw_path": "scraped_data/raw/dc01.json",
+      "markdown_path": "scraped_data/markdown/dc01.md",
+      "crawl_time": "2025-01-28T11:04:54.921901"
+    },
+    {
+      "url": "https://assemblean.com/stahl/",
+      "filename": "stahl",
+      "raw_path": "scraped_data/raw/stahl.json",
+      "markdown_path": "scraped_data/markdown/stahl.md",
+      "crawl_time": "2025-01-28T11:04:57.303328"
+    },
+    {
+      "url": "https://assemblean.com/x153crmov12/",
+      "filename": "x153crmov12",
+      "raw_path": "scraped_data/raw/x153crmov12.json",
+      "markdown_path": "scraped_data/markdown/x153crmov12.md",
+      "crawl_time": "2025-01-28T11:04:57.303044"
+    },
+    {
+      "url": "https://assemblean.com/cnc-drilled-parts/",
+      "filename": "cnc-drilled-parts",
+      "raw_path": "scraped_data/raw/cnc-drilled-parts.json",
+      "markdown_path": "scraped_data/markdown/cnc-drilled-parts.md",
+      "crawl_time": "2025-01-28T11:04:57.301220"
+    },
+    {
+      "url": "https://assemblean.com/wasserstrahlschneiden/",
+      "filename": "wasserstrahlschneiden",
+      "raw_path": "scraped_data/raw/wasserstrahlschneiden.json",
+      "markdown_path": "scraped_data/markdown/wasserstrahlschneiden.md",
+      "crawl_time": "2025-01-28T11:04:57.302035"
+    },
+    {
+      "url": "https://assemblean.com/cnc-fraesteile/",
+      "filename": "cnc-fraesteile",
+      "raw_path": "scraped_data/raw/cnc-fraesteile.json",
+      "markdown_path": "scraped_data/markdown/cnc-fraesteile.md",
+      "crawl_time": "2025-01-28T11:04:56.154409"
+    },
+    {
+      "url": "https://assemblean.com/cnc-bohrteile/",
+      "filename": "cnc-bohrteile",
+      "raw_path": "scraped_data/raw/cnc-bohrteile.json",
+      "markdown_path": "scraped_data/markdown/cnc-bohrteile.md",
+      "crawl_time": "2025-01-28T11:04:57.303157"
+    },
+    {
+      "url": "https://assemblean.com/cnc-drehteile/",
+      "filename": "cnc-drehteile",
+      "raw_path": "scraped_data/raw/cnc-drehteile.json",
+      "markdown_path": "scraped_data/markdown/cnc-drehteile.md",
+      "crawl_time": "2025-01-28T11:04:57.302827"
+    },
+    {
+      "url": "https://assemblean.com/cnc-turned-parts/",
+      "filename": "cnc-turned-parts",
+      "raw_path": "scraped_data/raw/cnc-turned-parts.json",
+      "markdown_path": "scraped_data/markdown/cnc-turned-parts.md",
+      "crawl_time": "2025-01-28T11:05:02.892998"
+    },
+    {
+      "url": "https://assemblean.com/cnc-machining/",
+      "filename": "cnc-machining",
+      "raw_path": "scraped_data/raw/cnc-machining.json",
+      "markdown_path": "scraped_data/markdown/cnc-machining.md",
+      "crawl_time": "2025-01-28T11:05:05.525128"
+    },
+    {
+      "url": "https://assemblean.com/blechbearbeitung/",
+      "filename": "blechbearbeitung",
+      "raw_path": "scraped_data/raw/blechbearbeitung.json",
+      "markdown_path": "scraped_data/markdown/blechbearbeitung.md",
+      "crawl_time": "2025-01-28T11:05:02.640713"
+    },
+    {
+      "url": "https://assemblean.com/start-ups/",
+      "filename": "start-ups",
+      "raw_path": "scraped_data/raw/start-ups.json",
+      "markdown_path": "scraped_data/markdown/start-ups.md",
+      "crawl_time": "2025-01-28T11:05:10.708901"
+    },
+    {
+      "url": "https://assemblean.com/start-ups-en/",
+      "filename": "start-ups-en",
+      "raw_path": "scraped_data/raw/start-ups-en.json",
+      "markdown_path": "scraped_data/markdown/start-ups-en.md",
+      "crawl_time": "2025-01-28T11:05:03.878248"
+    },
+    {
+      "url": "https://assemblean.com/cnc-milled-parts/",
+      "filename": "cnc-milled-parts",
+      "raw_path": "scraped_data/raw/cnc-milled-parts.json",
+      "markdown_path": "scraped_data/markdown/cnc-milled-parts.md",
+      "crawl_time": "2025-01-28T11:05:04.901032"
+    },
+    {
+      "url": "https://assemblean.com/sheet-metal-processing/",
+      "filename": "sheet-metal-processing",
+      "raw_path": "scraped_data/raw/sheet-metal-processing.json",
+      "markdown_path": "scraped_data/markdown/sheet-metal-processing.md",
+      "crawl_time": "2025-01-28T11:05:05.938645"
+    },
+    {
+      "url": "https://assemblean.com/vacuum-casting/",
+      "filename": "vacuum-casting",
+      "raw_path": "scraped_data/raw/vacuum-casting.json",
+      "markdown_path": "scraped_data/markdown/vacuum-casting.md",
+      "crawl_time": "2025-01-28T11:05:04.667323"
+    },
+    {
+      "url": "https://assemblean.com/die-casting/",
+      "filename": "die-casting",
+      "raw_path": "scraped_data/raw/die-casting.json",
+      "markdown_path": "scraped_data/markdown/die-casting.md",
+      "crawl_time": "2025-01-28T11:05:07.198697"
+    },
+    {
+      "url": "https://assemblean.com/druckguss/",
+      "filename": "druckguss",
+      "raw_path": "scraped_data/raw/druckguss.json",
+      "markdown_path": "scraped_data/markdown/druckguss.md",
+      "crawl_time": "2025-01-28T11:05:15.838437"
+    },
+    {
+      "url": "https://assemblean.com/injection-moulding/",
+      "filename": "injection-moulding",
+      "raw_path": "scraped_data/raw/injection-moulding.json",
+      "markdown_path": "scraped_data/markdown/injection-moulding.md",
+      "crawl_time": "2025-01-28T11:05:23.584591"
+    },
+    {
+      "url": "https://assemblean.com/es/",
+      "filename": "es",
+      "raw_path": "scraped_data/raw/es.json",
+      "markdown_path": "scraped_data/markdown/es.md",
+      "crawl_time": "2025-01-28T11:05:23.395261"
+    },
+    {
+      "url": "https://assemblean.com/fr/",
+      "filename": "fr",
+      "raw_path": "scraped_data/raw/fr.json",
+      "markdown_path": "scraped_data/markdown/fr.md",
+      "crawl_time": "2025-01-28T11:05:22.474274"
+    },
+    {
+      "url": "https://assemblean.com/it/",
+      "filename": "it",
+      "raw_path": "scraped_data/raw/it.json",
+      "markdown_path": "scraped_data/markdown/it.md",
+      "crawl_time": "2025-01-28T11:05:23.187863"
+    },
+    {
+      "url": "https://assemblean.com/zh/",
+      "filename": "zh",
+      "raw_path": "scraped_data/raw/zh.json",
+      "markdown_path": "scraped_data/markdown/zh.md",
+      "crawl_time": "2025-01-28T11:05:23.119738"
+    },
+    {
+      "url": "https://assemblean.com/2-1090/",
+      "filename": "2-1090",
+      "raw_path": "scraped_data/raw/2-1090.json",
+      "markdown_path": "scraped_data/markdown/2-1090.md",
+      "crawl_time": "2025-01-28T11:05:23.677006"
+    },
+    {
+      "url": "https://assemblean.com/laserteile/",
+      "filename": "laserteile",
+      "raw_path": "scraped_data/raw/laserteile.json",
+      "markdown_path": "scraped_data/markdown/laserteile.md",
+      "crawl_time": "2025-01-28T11:05:23.590045"
+    },
+    {
+      "url": "https://assemblean.com/waterjet-cutting/",
+      "filename": "waterjet-cutting",
+      "raw_path": "scraped_data/raw/waterjet-cutting.json",
+      "markdown_path": "scraped_data/markdown/waterjet-cutting.md",
+      "crawl_time": "2025-01-28T11:05:23.395722"
+    },
+    {
+      "url": "https://assemblean.com/laser-cutting/",
+      "filename": "laser-cutting",
+      "raw_path": "scraped_data/raw/laser-cutting.json",
+      "markdown_path": "scraped_data/markdown/laser-cutting.md",
+      "crawl_time": "2025-01-28T11:05:21.700671"
+    },
+    {
+      "url": "https://assemblean.com/cnc/",
+      "filename": "cnc",
+      "raw_path": "scraped_data/raw/cnc.json",
+      "markdown_path": "scraped_data/markdown/cnc.md",
+      "crawl_time": "2025-01-28T11:05:24.650463"
+    },
+    {
+      "url": "https://assemblean.com/erodieren/",
+      "filename": "erodieren",
+      "raw_path": "scraped_data/raw/erodieren.json",
+      "markdown_path": "scraped_data/markdown/erodieren.md",
+      "crawl_time": "2025-01-28T11:05:31.481690"
+    },
+    {
+      "url": "https://assemblean.com/eroding/",
+      "filename": "eroding",
+      "raw_path": "scraped_data/raw/eroding.json",
+      "markdown_path": "scraped_data/markdown/eroding.md",
+      "crawl_time": "2025-01-28T11:05:30.842461"
+    },
+    {
+      "url": "https://assemblean.com/nachbearbeitungen/",
+      "filename": "nachbearbeitungen",
+      "raw_path": "scraped_data/raw/nachbearbeitungen.json",
+      "markdown_path": "scraped_data/markdown/nachbearbeitungen.md",
+      "crawl_time": "2025-01-28T11:05:30.863406"
+    },
+    {
+      "url": "https://assemblean.com/polieren/",
+      "filename": "polieren",
+      "raw_path": "scraped_data/raw/polieren.json",
+      "markdown_path": "scraped_data/markdown/polieren.md",
+      "crawl_time": "2025-01-28T11:05:31.330582"
+    },
+    {
+      "url": "https://assemblean.com/nachbearbeitungen-elektropolieren/",
+      "filename": "nachbearbeitungen-elektropolieren",
+      "raw_path": "scraped_data/raw/nachbearbeitungen-elektropolieren.json",
+      "markdown_path": "scraped_data/markdown/nachbearbeitungen-elektropolieren.md",
+      "crawl_time": "2025-01-28T11:05:31.436433"
+    },
+    {
+      "url": "https://assemblean.com/nachbearbeitungen-bruenieren/",
+      "filename": "nachbearbeitungen-bruenieren",
+      "raw_path": "scraped_data/raw/nachbearbeitungen-bruenieren.json",
+      "markdown_path": "scraped_data/markdown/nachbearbeitungen-bruenieren.md",
+      "crawl_time": "2025-01-28T11:05:31.482676"
+    },
+    {
+      "url": "https://assemblean.com/laeppen/",
+      "filename": "laeppen",
+      "raw_path": "scraped_data/raw/laeppen.json",
+      "markdown_path": "scraped_data/markdown/laeppen.md",
+      "crawl_time": "2025-01-28T11:05:31.482383"
+    },
+    {
+      "url": "https://assemblean.com/ueber-uns/",
+      "filename": "ueber-uns",
+      "raw_path": "scraped_data/raw/ueber-uns.json",
+      "markdown_path": "scraped_data/markdown/ueber-uns.md",
+      "crawl_time": "2025-01-28T11:05:31.046412"
+    },
+    {
+      "url": "https://assemblean.com/about-us/",
+      "filename": "about-us",
+      "raw_path": "scraped_data/raw/about-us.json",
+      "markdown_path": "scraped_data/markdown/about-us.md",
+      "crawl_time": "2025-01-28T11:05:31.048403"
+    },
+    {
+      "url": "https://assemblean.com/schweissverfahren/",
+      "filename": "schweissverfahren",
+      "raw_path": "scraped_data/raw/schweissverfahren.json",
+      "markdown_path": "scraped_data/markdown/schweissverfahren.md",
+      "crawl_time": "2025-01-28T11:05:31.436782"
+    }
+  ]
+}
