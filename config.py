@@ -1,7 +1,7 @@
 """Configuration settings for the sitemap scraper."""
 
 # Website configuration
-WEBSITE_URL = "https://www.sistrix.com/api/"
+WEBSITE_URL = "https://assemblean.com/en/"
 OUTPUT_DIR = "scraped_data"
 
 # Crawling settings

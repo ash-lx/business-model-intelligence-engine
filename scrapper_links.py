@@ -164,5 +164,55 @@ async def main():
     await scraper.run()
 
 
+    async def combine_markdown_files(self, results: List[Dict[str, Any]]) -> None:
+        """Combine all markdown files into a single final.md"""
+        try:
+            combined_content = []
+            for result in sorted(results, key=lambda x: x.get('filename', '')):
+                if result and 'markdown_path' in result:
+                    try:
+                        async with aiofiles.open(result['markdown_path'], 'r') as f:
+                            content = await f.read()
+                            header = f"\n\n## {result['url']}\n\n"
+                            combined_content.append(header + content)
+                    except Exception as e:
+                        logging.error(f"Error reading markdown file {result['markdown_path']}: {e}")
+
+            # Write combined content to final.md
+            final_path = self.output_dir / 'final.md'
+            async with aiofiles.open(final_path, 'w') as f:
+                await f.write('\n'.join(combined_content))
+
+        except Exception as e:
+            logging.error(f"Error combining markdown files: {e}")
+
+    async def run(self) -> None:
+        """Main execution method"""
+        try:
+            # Read links
+            urls = await self.read_links()
+            if not urls:
+                logging.error("No URLs found in links file")
+                return
+
+            # Initialize crawler
+            async with AsyncWebCrawler(
+                config=self.browser_config,
+                max_concurrent_requests=5
+            ) as crawler:
+                # Process URLs
+                results = []
+                for url in urls:
+                    result = await self.crawl_single_url(url, crawler)
+                    if result:
+                        results.append(result)
+
+                # Combine results
+                await self.combine_markdown_files(results)
+
+        except Exception as e:
+            logging.error(f"Error in run method: {e}")
+            raise
+
 if __name__ == "__main__":
     asyncio.run(main())

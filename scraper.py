@@ -12,7 +12,22 @@ from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
 from crawl4ai.content_filter_strategy import PruningContentFilter
 from usp.tree import sitemap_tree_for_homepage
 
-import config
+# Default configuration
+
+
+class Config:
+    OUTPUT_DIR = "scraped_data"
+    BATCH_SIZE = 10
+    RATE_LIMIT = 2
+    MAX_CONCURRENT_REQUESTS = 5
+    LOG_LEVEL = "INFO"
+    LOG_FORMAT = "%(asctime)s - %(levelname)s - %(message)s"
+
+
+try:
+    import config
+except ImportError:
+    config = Config
 
 # Set up logging
 logging.basicConfig(
@@ -60,6 +75,7 @@ class SitemapScraper:
     async def fetch_sitemap(self, url: str) -> List[Dict[str, Any]]:
         """Fetch and parse the sitemap from the website."""
         try:
+            # First try to get URLs from sitemap
             tree = sitemap_tree_for_homepage(url)
             urls = []
             for page in tree.all_pages():
@@ -70,12 +86,26 @@ class SitemapScraper:
                 }
                 urls.append(url_data)
 
-            logging.info(f"Found {len(urls)} URLs in sitemap")
+            # If no URLs found in sitemap, fall back to the homepage
+            if not urls:
+                logging.info("No URLs found in sitemap, using homepage URL")
+                urls = [{
+                    'loc': url,
+                    'lastmod': None,
+                    'priority': None
+                }]
+
+            logging.info(f"Found {len(urls)} URLs to analyze")
             return urls
 
         except Exception as e:
-            logging.error(f"Error parsing sitemap: {e}", exc_info=True)
-            return []
+            logging.error(f"Error parsing sitemap: {
+                          e}, falling back to homepage URL")
+            return [{
+                'loc': url,
+                'lastmod': None,
+                'priority': None
+            }]
 
     async def crawl_single_url(self, url: str, url_data: Dict[str, Any], crawler: AsyncWebCrawler) -> Dict[str, Any]:
         """Enhanced crawl method with markdown generation"""
