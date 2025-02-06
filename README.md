@@ -1,4 +1,4 @@
-# LAF Business Model
+# Business Model Intelligence Engine
 
 ## Executive Summary
 
